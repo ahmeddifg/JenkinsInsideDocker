@@ -14,4 +14,4 @@ so you can easy build you own pipline, that can start by building then test then
 * 6-) new you can unlock jenkins" by execute " cat /var/jenkins_home/secrets/initialAdminPassword" 
       and copy the content and paste into jenkins page.
   
-  
+  To get insight about how this jenkins is build check out pipline/dockerfile there
