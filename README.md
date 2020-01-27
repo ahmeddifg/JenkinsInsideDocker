@@ -4,6 +4,7 @@ Hello
 This project will get your started with jenkins docker image that supported with Maven and Git and docker inside it self so you can easy build you own pipline, that can start by building then test then push then deploy your docker image to dockerhub.
 
  --> check this sample java application with pipeline "Jenkinsfile" file   https://github.com/ahmeddifg/SampleJavaAppForJenkins
+ 
  --> check "projectflow.png"
  
  -----------------------------------------------------------
