@@ -8,12 +8,18 @@ This project will get your started with jenkins docker image that supported with
  
  -----------------------------------------------------------
  *Folder structure
+ 
  "jenkins_home" : home folder for jenkins server application installtion files.
+ 
  "pipeline": file the contain docker file for jenkins image
+ 
  "root/.m2": cache folder for maven libraries.
+ 
  "scripts": folder contain sample scripts for this sample project.
+ 
             *please note your have to change "pipe2" with your pipeline name
             *Also change pathes on the "Jenkinsfile" to the correct paths.
+            
  -----------------------------------------------------------
 * 1-) you have to install docker in your local machine and make sure its running just try "docker ps"
       command in your console.
